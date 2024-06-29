@@ -1,0 +1,23 @@
+body{
+    background-image: url('math.jpg');
+    background-size: cover;
+    align-items: center !important;
+    text-align: center !important;
+}
+
+h1{
+    font-family:sans-serif;
+    font-size: 2.2rem !important;
+    color: white !important;
+    font-weight: bold;
+}
+
+
+#calc-display{
+    height: 5rem;
+    background-color: rgb(227, 234, 234) !important;
+}
+
+.upper-part{
+    background-color: rgb(231, 232, 247) !important;
+}
